@@ -26,7 +26,7 @@ Feel free to explore my projects or reach out if you would like to collaborate.
 
 ## 🌟 I have Recently Worked on/Currently Working On:
 
-### 1. CollapseOS: Real Time Sports Intelligence Platform
+#### 1. CollapseOS: Real Time Sports Intelligence Platform
   Built at Hacklytics at Georgia Tech, CollapseOS predicts short term momentum collapse in international football using rolling event stream features and statistical modeling.
 
 This platform transforms raw match events into minute level risk probabilities and tactical insights.
