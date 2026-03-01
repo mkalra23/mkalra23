@@ -40,6 +40,8 @@ This platform transforms raw match events into minute level risk probabilities a
 
 Tech Stack: Python, scikit-learn, FastAPI, DuckDB
 
+---
+
 ### 2. Volleyball Lineup Generator, Predictive Rotation System
    A predictive lineup generation system that creates optimal 4–2 volleyball rotations based on player roles, match constraints, and gameplay logic.
 
@@ -53,6 +55,8 @@ This project converts real coaching strategy into constraint driven algorithmic 
   - Strategy Integration: Incorporated real world coaching insights to align algorithmic output with practical game strategy.
 
 Tech Stack: Python, NumPy, itertools
+
+---
 
 🌱 I’m currently learning
    - Distributed data platforms and large scale system design
@@ -70,16 +74,22 @@ Tech Stack: Python, NumPy, itertools
    - FastAPI backend development
    - Applied sports analytics and compliance AI
 
+---
+
 📫 How to reach me
 Email: kalramahika@gmail.com
 LinkedIn: www.linkedin.com/in/mahikakalra
 GitHub: github.com/mkalra23
+
+---
 
 🛠 Technologies and Tools
 Languages: Python, SQL, Java, C/C++, JavaScript
 Data and Analytics: MySQL, PostgreSQL, data modeling, ETL pipelines, ERD design
 Machine Learning: scikit-learn, feature engineering, EDA, pandas, NumPy
 Frameworks and Tools: FastAPI, Django, Git, GitHub, Jupyter, VS Code, IntelliJ
+
+---
 
 Currently Seeking
 Summer 2026 internships in data engineering, data platforms, and machine learning engineering.
