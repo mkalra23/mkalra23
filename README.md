@@ -58,12 +58,12 @@ Tech Stack: Python, NumPy, itertools
 
 ---
 
-🌱 I’m currently learning
+📚 I’m currently learning
    - Distributed data platforms and large scale system design
    - Advanced model evaluation and feature engineering strategies
    - Cloud infrastructure and scalable backend architecture
 
-👯 I’m looking to collaborate on
+🤝 I’m looking to collaborate on
    - Data engineering and warehousing projects
    - Machine learning systems with measurable real world impact
    - Backend platforms that serve analytics or predictive models
@@ -96,3 +96,10 @@ Tech Stack: Python, NumPy, itertools
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahikakalra)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalramahika@gmail.com)
+
+---
+
+🔭 Currently Looking For
+
+Summer 2026 internships in data engineering, data platforms, and machine learning engineering.  
+Interested in scalable backend systems and distributed data infrastructure roles.
