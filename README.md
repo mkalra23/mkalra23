@@ -24,9 +24,9 @@ This repository highlights my projects, research work, and applied systems acros
 
 Feel free to explore my projects or reach out if you would like to collaborate.
 
-🌟 I have Recently Worked on/Currently Working On:
+## 🌟 I have Recently Worked on/Currently Working On:
 
-## 1. CollapseOS: Real Time Sports Intelligence Platform
+# 1. CollapseOS: Real Time Sports Intelligence Platform
   Built at Hacklytics at Georgia Tech, CollapseOS predicts short term momentum collapse in international football using rolling event stream features and statistical modeling.
 
 This platform transforms raw match events into minute level risk probabilities and tactical insights.
@@ -40,7 +40,7 @@ This platform transforms raw match events into minute level risk probabilities a
 
 Tech Stack: Python, scikit-learn, FastAPI, DuckDB
 
-## 2. Volleyball Lineup Generator, Predictive Rotation System
+# 2. Volleyball Lineup Generator, Predictive Rotation System
    A predictive lineup generation system that creates optimal 4–2 volleyball rotations based on player roles, match constraints, and gameplay logic.
 
 This project converts real coaching strategy into constraint driven algorithmic optimization.
