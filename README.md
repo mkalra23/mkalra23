@@ -76,20 +76,20 @@ Tech Stack: Python, NumPy, itertools
 
 ---
 
-📫 How to reach me
-Email: kalramahika@gmail.com
-LinkedIn: www.linkedin.com/in/mahikakalra
-GitHub: github.com/mkalra23
+📫 How to reach me <br>
+Email: kalramahika@gmail.com <br>
+LinkedIn: www.linkedin.com/in/mahikakalra <br>
+GitHub: github.com/mkalra23 <br>
 
 ---
 
-🛠 Technologies and Tools
-Languages: Python, SQL, Java, C/C++, JavaScript
-Data and Analytics: MySQL, PostgreSQL, data modeling, ETL pipelines, ERD design
-Machine Learning: scikit-learn, feature engineering, EDA, pandas, NumPy
-Frameworks and Tools: FastAPI, Django, Git, GitHub, Jupyter, VS Code, IntelliJ
+🛠 Technologies and Tools <br>
+Languages: Python, SQL, Java, C/C++, JavaScript <br>
+Data and Analytics: MySQL, PostgreSQL, data modeling, ETL pipelines, ERD design <br>
+Machine Learning: scikit-learn, feature engineering, EDA, pandas, NumPy <br>
+Frameworks and Tools: FastAPI, Django, Git, GitHub, Jupyter, VS Code, IntelliJ <br>
 
 ---
 
-Currently Seeking
+Currently Seeking <br>
 Summer 2026 internships in data engineering, data platforms, and machine learning engineering.
